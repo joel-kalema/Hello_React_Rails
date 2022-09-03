@@ -1,66 +1,41 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Rails React App
+Theis app is built in order to implement a connection between a Ruby on Rails back-end and React front-end. And to understand the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
 
-> Description the project.
+## Getting Started
+- clone the repository
+`git clone https://github.com/ezekielutshudi/hello_rails_react.git`
+- navigate to the folder
+`cd hello_rails_react`
+- Install packages
+`bundle install`
+- Setup database
+`rails db:reset`
+-Database data
+`rails db:seed`
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- Ruby on Rails version (_6.1.6_)
+- PostgreSQL
+- React
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+## Author
 
 
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+## :handshake: Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page]().
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a :star:️ if you like this project!
 
 ## Acknowledgments
 
@@ -68,6 +43,6 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
+## :memo: License
 
 This project is [MIT](./MIT.md) licensed.
